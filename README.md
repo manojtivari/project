@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsaffu&label=Profile%20views&color=0e75b6&style=flat" alt="mrsaffu" /> </p>
 
-- 🌱 I’m currently learning *full stack, react DSA and c++*
+- 🌱 I’m currently learning *full stack, java DSA and c++*
 
-- 💬 Ask me about *web development, java and js*
+- 💬 Ask me about *web development, java and html, css*
 
-- 📫 How to reach me *safwansayyed78@gmail.com*
+- 📫 How to reach me *mk85212223@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/safwan ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwan ahmad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/safwan ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manoj kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/innoxent_saffu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="innoxent_saffu" height="30" width="40" /></a>
 </p>
 
